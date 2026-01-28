@@ -1,4 +1,4 @@
-#LaTeX Template
+# LaTeX Template
 
 Inside the repository you can find the description in **content/how_to_use** to figure out the framework.
 
